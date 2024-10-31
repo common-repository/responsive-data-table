@@ -1,0 +1,34 @@
+.rdt-front-table-data{}
+
+
+.table-content-area{width:100%;}
+.table-content-row{width:100%; margin-bottom:25px; display:inline-block;}
+#add-new-columns{margin-top:10px;}
+.woo-wholesale-row-inner{margin-bottom: 5px;}
+.table-content-header-col{width:60%; display:inline-block}
+.rdt-table-data input[type=text]{width:98%}
+
+.subheadarea input{width:130px;}
+
+.rdt-table-content-row-left{width:48%; float:left}
+.rdt-table-content-row-right{width:48%; float:right}
+.rdt-table-content-row-left input[type=text]{width:75%;}
+.rdt-tbl-appearance-title{width:50%; padding-right:0 10px; float:left; font-size:16px;}
+.rdt-color-picker{width:50%;  float:right}
+
+.rdt-w3-border{border:none !important; border-bottom:1px solid #ccc !important; width: 95%;}
+.rdt-w3-bar{width:100%;overflow:hidden}
+.rdt-w3-border-bottom{border-bottom:1px solid #ccc!important}
+.rdt-w3-light-grey,.rdt-w3-hover-light-grey:hover,.rdt-w3-light-gray,.rdt-w3-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+.rdt-w3-bar .rdt-w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.rdt-w3-bar-block .rdt-w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
+.rdt-w3-bar-block.rdt-w3-center .rdt-w3-bar-item{text-align:center}.rdt-w3-block{display:block;width:100%}
+.rdt-w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap; border: 1px solid #ccc!important; border-bottom:none !important;}
+.rdt-w3-button:hover {
+    color: #000!important;
+    background-color: #ccc!important;
+}
+.rdt-w3-button:first-child{border-right:none !important;}
+.rdt-w3-light-grey,.rdt-w3-hover-light-grey:hover,.rdt-w3-light-gray,.rdt-w3-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+.rdt-w3-dark-grey,.rdt-w3-hover-dark-grey:hover,.rdt-w3-dark-gray,.rdt-w3-hover-dark-gray:hover{color:#fff!important;background-color:#616161!important}
+.rdt-city{ padding:20px; border-right: 1px solid #ccc!important; border-left: 1px solid #ccc!important;}

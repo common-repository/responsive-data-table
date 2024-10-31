@@ -1,0 +1,14 @@
+.rdt-front-table-data{width:100%; border:1px solid #CCC;margin: 0px;}
+.rdt-front-table-data tr td{padding:4px 6px;;}
+.rdt-desktop-col{display:table-row;}
+.rdt-responsive-col{display:none;}
+tr.rdt-responsive-col > td{padding-top:12px; padding-bottom:12px;}
+.rdt-responsive-table-data-continer{
+	width: 100%;
+    display: inline-block;
+    margin: 0px;
+    background-color: #ff00001f;
+    padding: 20px;
+    box-sizing: border-box
+}
+.rdt-responsive-table-data tr td:first-child{width:140px; font-weight:bold;}

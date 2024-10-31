@@ -1,0 +1,3 @@
+<?php
+//Responsive Data Table
+?>
